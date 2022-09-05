@@ -1,1 +1,1 @@
-[embed]https://github.com/daunsid/human-activity-recognition-in-wearables-paper/blob/master/Human%20Activity%20Recognition%20In%20Wearables.pdf[/embed]
+https://documentcloud.adobe.com/gsuiteintegration/index.html?state=%7B%22ids%22%3A%5B%22163S3we6YML9w7k9ULC9Mok7H2JX34Iw-%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22100420337769688133762%22%2C%22resourceKeys%22%3A%7B%7D%7D
